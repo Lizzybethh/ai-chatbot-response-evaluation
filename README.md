@@ -15,6 +15,17 @@ The examples use fictional business details and illustrative response evaluation
 2. **Sales analysis:** Interpret a small fictional sales table without inventing causes or unsupported trends.
 3. **Marketing planning:** Create a practical one-week promotion plan within a small business's stated budget and capacity.
 
+## Visual Prompt Interpretation & Annotation Project
+
+A second portfolio case study demonstrates how to translate a detailed visual prompt into a consistent, factually grounded comparison layout. It uses a rainforest-canopy-versus-desert prompt to document composition, image research, annotation, source tracking, and quality checks.
+
+- [Visual comparison project brief](visual-comparison/README.md)
+- [Prompt breakdown and layout specification](visual-comparison/prompt-breakdown.md)
+- [Visual QA checklist](visual-comparison/visual-qa-checklist.md)
+- [Image source and rights log template](visual-comparison/source-log-template.csv)
+
+The brief is a workflow and layout-planning demonstration. It does not claim that external images were sourced or that a finished photographic comparison was produced. The source log is a template to complete when actual assets are researched and selected.
+
 ## Evaluation workflow
 
 1. Read the task prompt and all supplied business context.
@@ -47,7 +58,7 @@ Scores use a 1–5 scale, where **1 = poor**, **3 = adequate with notable gaps**
 
 ## Important note on evidence
 
-The worked case study is a **method demonstration**. The sample response patterns and scores are illustrative, not claims that named AI products were tested in a live benchmark. For a real comparison, save the exact prompt, tool/model name, date, full response transcript, criterion-level scores, and evidence for each score.
+The worked case studies are **method demonstrations**. The sample response patterns, scores, and visual layout specifications are illustrative, not claims that named AI products were tested in a live benchmark or that licensed external assets were sourced. For real work, save the exact prompt, tool/model name, date, full response transcript, asset URL, creator, license/terms, and evidence for each decision.
 
 ## Skills demonstrated
 
@@ -56,7 +67,9 @@ The worked case study is a **method demonstration**. The sample response pattern
 - Structured quality scoring
 - Clear written justification
 - Comparative response analysis
-- Practical recommendations for small-business workflows
+- Visual brief interpretation and annotation planning
+- Asset provenance and rights tracking
+- Quality-control workflows
 
 ## Contact
 
